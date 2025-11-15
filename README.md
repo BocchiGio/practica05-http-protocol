@@ -1,4 +1,4 @@
-Miembros del Tilines_Clubs equipo:
+Miembros del equipo Tilines_Clubs:
 
 * Oziel
 * David
