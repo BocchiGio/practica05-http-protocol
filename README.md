@@ -1,5 +1,5 @@
 Miembros del equipo Tilines_Clubs:
 
-* Oziel
-* David
-* Cristian
+* Oziel David Canul Xool
+* David Cervantes Malfavon
+* Cristian Giovany Carballo Padilla
